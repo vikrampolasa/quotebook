@@ -7,3 +7,5 @@ Changes coming from personal_color branch
 The best way to predict the future is to create it 
 
 If you can dream it, you can do it - Walt Disney
+
+new text to test gitignore
