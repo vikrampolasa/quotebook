@@ -11,3 +11,4 @@ If you can dream it, you can do it - Walt Disney
 new text to test gitignore
 
 This change for gitstash coming from remote
+This is a new change from git stash
